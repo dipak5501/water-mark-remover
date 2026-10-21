@@ -1,0 +1,10 @@
+.tools/
+.venv/
+watermarks-remover/
+pdfs-in/
+pdfs-out/
+__pycache__/
+*.pyc
+.DS_Store
+*.cleaned.pdf
+report.json
